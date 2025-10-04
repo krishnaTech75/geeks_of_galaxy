@@ -1,0 +1,8 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/farms/[id]/page": "app/dashboard/farms/[id]/page.js",
+  "/dashboard/farms/new/page": "app/dashboard/farms/new/page.js",
+  "/dashboard/farms/[id]/crops/new/page": "app/dashboard/farms/[id]/crops/new/page.js",
+  "/dashboard/farms/[id]/weather/page": "app/dashboard/farms/[id]/weather/page.js",
+  "/dashboard/profile/page": "app/dashboard/profile/page.js"
+}
