@@ -1,0 +1,17 @@
+{
+  "node": {
+    "00e00a0b8c2a9c951f74255c3830b48874ae2e3735": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2Fsecura%2FGeeks_of_galaxy%2Fkrishi_sathi%2Fapp%2Fdashboard%2Fpage.tsx%22%2C%5B%7B%22id%22%3A%2200e00a0b8c2a9c951f74255c3830b48874ae2e3735%22%2C%22exportedName%22%3A%22%24%24RSC_SERVER_ACTION_0%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "zO9iM3wv34Mb3UNSHxCnmU6VCEx5qhLkVGPD5bN9yi8="
+}
